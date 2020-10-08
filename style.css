@@ -1,10 +1,17 @@
 
   .nav-items {
-    display: inline-flex;
+    display: inline-block;
     text-align: center;
     padding: 25px;
     margin: 5px;
+    padding-top: 20px;
      
+  }
+
+  ul {
+    margin-left: 280px;
+
+
 
   }
   .three-images {
