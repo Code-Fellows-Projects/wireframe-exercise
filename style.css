@@ -1,0 +1,61 @@
+
+  .nav-items {
+    display: inline-flex;
+    text-align: center;
+    padding: 25px;
+    margin: 5px;
+     
+
+  }
+  .three-images {
+    display: inline-block;
+    padding: 10px;
+    
+  }
+  
+  h1 {
+    float: center;
+
+
+  }
+  p {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-content p {
+    border: 0px;
+    width: 300px;
+    height: 150px;
+    overflow: auto
+    
+  }
+
+  
+  #button {
+    display: block;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: #ddd;
+    color: black;
+    height: 25px;
+    width: 150px;
+    margin: 15px;
+    padding-top: 10px;
+    
+  }
+  #button:hover {
+    background-color: grey;
+    transition: 350ms ease-in-out, 350ms ease-in-out; 
+    cursor: pointer;
+  
+  }
+  footer{
+      justify-content: flex-end;
+      background-color: #ddd;
+      padding: 50px;
+     
+    }
+  
+  
